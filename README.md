@@ -45,5 +45,6 @@ Display confidence score
 Generate detection result/report
 Store detection history
 <img width="1151" height="610" alt="image" src="https://github.com/user-attachments/assets/620e1a0a-6608-4510-a79b-61b6f803b493" />
+<img width="1180" height="601" alt="image" src="https://github.com/user-attachments/assets/5bc6f4ee-71ea-4f80-ba29-bc24e5f227b0" />
 
 
