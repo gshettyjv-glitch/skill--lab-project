@@ -44,5 +44,6 @@ Detect Real/Fake/Suspicious content
 Display confidence score
 Generate detection result/report
 Store detection history
+<img width="1151" height="610" alt="image" src="https://github.com/user-attachments/assets/620e1a0a-6608-4510-a79b-61b6f803b493" />
 
 
