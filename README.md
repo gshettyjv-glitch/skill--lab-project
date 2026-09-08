@@ -48,4 +48,5 @@ Store detection history
 
 <img width="1180" height="601" alt="image" src="https://github.com/user-attachments/assets/5bc6f4ee-71ea-4f80-ba29-bc24e5f227b0" />
 
+<img width="872" height="793" alt="image" src="https://github.com/user-attachments/assets/b1a9b510-301d-41d2-88b0-796c8cf6fe4d" />
 
